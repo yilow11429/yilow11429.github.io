@@ -1,7 +1,8 @@
 body {font-family: Arial, sans-serif;
     text-align: center;
     background-color: #f0f7ff;
-    padding: 20px;}
+    padding: 20px;
+}
 
 h1 {color: #333;}
 
@@ -11,7 +12,8 @@ h1 {color: #333;}
     margin: 10px;
     border: none;
     border-radius: 10px;
-    cursor: pointer;}
+    cursor: pointer;
+}
 
 .buttons button:hover {
     transform: scale(1.07);
